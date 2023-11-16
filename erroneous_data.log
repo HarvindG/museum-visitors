@@ -1,0 +1,411 @@
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid site ID: 11
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid type ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid site ID: ERR
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 8
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid site ID: 6
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 7
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid site ID: INF
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 12
+DEBUG:root:Invalid type ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid site ID: 10
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 4
+DEBUG:root:Invalid site ID: 9
+DEBUG:root:Invalid type ID: 3
+DEBUG:root:Invalid type ID: -1
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: 2
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Invalid type ID: ERR
+DEBUG:root:Invalid site ID: None
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
+DEBUG:root:Incomplete dataset
